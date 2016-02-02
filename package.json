@@ -1,0 +1,25 @@
+{
+  "name": "gulplearning",
+  "version": "1.0.0",
+  "description": "a project for learning gulp",
+  "main": "build.js",
+  "dependencies": {
+    "requirejs": "^2.1.22"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivianink/gulpLearning.git"
+  },
+  "author": "vivian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivianink/gulpLearning/issues"
+  },
+  "homepage": "https://github.com/vivianink/gulpLearning#readme"
+}
